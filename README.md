@@ -1,2 +1,3 @@
-# nurfinn.github.io
+# Nursultan Boribay
+### NURFINN
 [Первый опыт](/src)
